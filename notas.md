@@ -2,7 +2,7 @@
 - Programación
 - Bases de Datos
 - Lenguaje de Marcas
-- DWEC
+- DWEC (Desarrollo Web en Entorno Cliente)
 ## Tareas pendientes
 - Terminar la práctica de Git
 - Preparar examen de JavaScript
