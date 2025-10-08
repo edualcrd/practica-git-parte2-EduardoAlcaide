@@ -6,3 +6,4 @@
 ## Tareas pendientes
 - Terminar la práctica de Git
 - Preparar examen de JavaScript
+- Nueva asignatura: Entornos de Desarrollo
