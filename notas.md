@@ -2,7 +2,7 @@
 - Programación
 - Bases de Datos
 - Lenguaje de Marcas
-- DWEC
+- DWEC (cliente con Java)
 ## Tareas pendientes
 - Terminar la práctica de Git
 - Preparar examen de JavaScript
